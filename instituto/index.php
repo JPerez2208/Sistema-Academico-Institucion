@@ -1,3 +1,3 @@
 <?php
-echo 'Hello, World!';
+echo 'Proyecto Academico de registro de estudiantes';
 ?>
